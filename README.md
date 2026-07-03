@@ -4,11 +4,11 @@
 #### Frontend web developer.
 
 
-I am a new web developer . I am still learning. I complete HTML and CSS . Now i learn Javascript and React.js. I learn programming only myself. I take help from Youtube. 
+I am a new web developer . I am still learning. I complete HTML,CSS,Javascript and React.js. I learn programming only myself. I take help from Youtube. 
 
 Skills:  REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning Javascript. 
+- 🌱 I’m currently learning Backend. 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with web development. 
 - 💬 Ask me about web development. 
