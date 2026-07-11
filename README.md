@@ -1,4 +1,4 @@
-!https://scontent.fdac41-2.fna.fbcdn.net/v/t39.30808-6/745123645_122173576472718578_1091084008204456460_n.jpg?stp=dst-jpg_tt6&cstp=mx3365x1246&ctp=s960x960&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFwt6A9FL1htKjfBRXkhfXBnOjZiAcqZ02c6NmIBypnTY-iv2932Wn65IUibK1sclfn_tSdeJ7g8MsiDAVrG5J1&_nc_ohc=RvaaMIg5iqsQ7kNvwHB-cBa&_nc_oc=AdpbTdNs1PERF2N6RNI58sYAdYJEC-G97Lz1U5YYkCvossyRo6ipRonRJjXQaJCSchM&_nc_zt=23&_nc_ht=scontent.fdac41-2.fna&_nc_gid=juwmKHDuzXR7treUF-5epQ&_nc_ss=7b2a8&oh=00_AQCiWQyMcebzJFeV9ITTYq05MWLFY-zl3nwmqM72ou8vjw&oe=6A57E6A4
+<img width="3546" height="1313" alt="Image" src="https://github.com/user-attachments/assets/354d83aa-1127-4636-b23b-157b15a7fbfb" />
 
 ### Hi there 👋, I'm Muhammad Mohiuddin
 #### Frontend web developer.
