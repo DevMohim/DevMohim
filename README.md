@@ -40,18 +40,18 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ### **GitHub**
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/hero-app?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/hero-app?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/your-username/hero-app?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/DevMohim/hero-app?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/DevMohim/hero-app?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/DevMohim/hero-app?style=for-the-badge)
 
 ---
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohiuddinn701)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/mohimuddin007)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mohiuddinn701)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mohimuddin714@gmail.com)
 
 ---
 
@@ -59,10 +59,11 @@
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMohim&show_icons=true&theme=default) 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMohim&layout=compact&theme=default) |
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=DevMohim&style=flat-square)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmohim&" alt="devmohim" /></p>
