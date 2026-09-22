@@ -61,7 +61,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
   <a href="https://facebook.com/Mohiuddinn701" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" />
   </a>
   <a href="https://x.com/mohimuddin007" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
