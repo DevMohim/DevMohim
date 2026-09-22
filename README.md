@@ -13,36 +13,58 @@
 
 - ⚡ Fun fact **I think I am a lazy Programmer**
 
-<h3 align="left">Connect with me:</h3>
+## <h3 align="left">Connect with me on social:</h3>
 <p align="left">
-<a href="https://twitter.com/devmohim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devmohim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohiuddinn701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohiuddinn701" height="30" width="40" /></a>
-<a href="https://fb.com/mohiuddinn701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohiuddinn701" height="30" width="40" /></a>
+  <a href="https://twitter.com/devmohim" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devmohim" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/mohiuddinn701" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohiuddinn701" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/mohiuddinn701" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohiuddinn701" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/your-invite-code" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
 
 ## 🛠️ Tech Stack  
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+### **Languages**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts)](https://skillicons.dev)
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+### **Css Frameworks & Libraries**
+[![My Skills](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://skillicons.dev)
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+### **Javascript Frameworks & Libraries**
+[![My Skills](https://skillicons.dev/icons?i=react,express,nextjs,nodejs)](https://skillicons.dev)
 
-### **GitHub**
-![GitHub Repo stars](https://img.shields.io/github/stars/DevMohim/hero-app?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/DevMohim/hero-app?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/DevMohim/hero-app?style=for-the-badge)
+### **Database**
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+
+### **Deployment Platforms**
+[![My Skills](https://skillicons.dev/icons?i=vercel,netlify,aws,cloudflare)](https://skillicons.dev)
+
+### **Design & Graphics**
+[![Design Skills](https://skillicons.dev/icons?i=ai,figma,ps)](https://skillicons.dev)
+
+### **Tools & Technologies**
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,notion,windows)](https://skillicons.dev)
+
+
+### **GitHub Statistics and Analysis**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
