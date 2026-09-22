@@ -1,4 +1,4 @@
-<img width="3546" height="1313" alt="Image" src="https://github.com/user-attachments/assets/354d83aa-1127-4636-b23b-157b15a7fbfb" />
+![Mohiuddin Biswas Banner](./mohiuddin-biswas-profile-banner.svg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Mohiuddin Biswas</h1>
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | Problem Solver</h3>
