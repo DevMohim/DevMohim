@@ -54,11 +54,22 @@
 
 
 ## 🌐 Connect With Me  
+<h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohiuddinn701)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/mohimuddin007)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Mohiuddinn701)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mohimuddin714@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/mohiuddinn701" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://facebook.com/Mohiuddinn701" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40" />
+  </a>
+  <a href="https://x.com/mohimuddin007" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
+  </a>
+  <a href="mailto:mohimuddin714@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+  </a>
+</p>
 
 ### **GitHub Statistics and Analysis**
 <p align="center">
