@@ -1,4 +1,4 @@
-![Mohiuddin Biswas Banner](./mohiuddin-biswas-github-banner.png)
+![Mohiuddin Biswas Banner](./mohiuddin-biswas-github-banner1.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Mohiuddin Biswas</h1>
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | Problem Solver</h3>
