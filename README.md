@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Hero-App](https://hero-app-sage.vercel.app/)
 
-- 🌱 I’m currently learning **BetterAuth , MongoDB , Express-js**
+- 🌱 I’m currently learning **BetterAuth , MongoDB , Express-js** for backend.
 
-- 💬 Ask me about **JavaScript , react , next-js**
+- 💬 Ask me about **JavaScript , react , next-js** for checking me.
 
 - 📫 How to reach me **mohimuddin714@gmail.com**
 
