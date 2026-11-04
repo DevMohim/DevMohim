@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mohiuddin Biswas</h1>
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | Problem Solver</h3>
 
-- 🔭 I’m currently working on [Go-Gather]([https://go-gather-devx.vercel.app/])
+- 🔭 I’m currently working on [Go-Gather](https://go-gather-devx.vercel.app/)
 
 - 🌱 I’m currently learning **BetterAuth , MongoDB , Express-js** for backend.
 
